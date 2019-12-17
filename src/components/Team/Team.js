@@ -1,6 +1,9 @@
 import React from "react";
 import vineet from "./Vineet.jpg";
 import Aditya from "./Aditya.jpg";
+import udit from "./udit.jpg";
+import Jonsy from "./Jonsy.jpg";
+import utkarsh from "./utkarsh.jpg";
 import "./Team.css";
 const Team = () => {
   return (
