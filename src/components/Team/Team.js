@@ -69,7 +69,7 @@ const Team = () => {
           <div class="at-column">
             <div class="at-user">
               <div class="at-user__avatar">
-                <img src="" alt="Loading"/>
+                <img src={udit} alt="Loading"/>
               </div>
               <div class="at-user__name">Udit Mishra</div>
               <div class="at-user__title">Co-Founder, Creative Director</div>
@@ -181,7 +181,7 @@ const Team = () => {
           <div class="at-column">
             <div class="at-user">
               <div class="at-user__avatar">
-                <img src="" alt="Loading" />
+                <img src={Jonsy} alt="Loading" />
               </div>
               <div class="at-user__name">Vedant Shrotria</div>
               <div class="at-user__title">Lead Developer</div>
@@ -237,7 +237,7 @@ const Team = () => {
           <div class="at-column">
             <div class="at-user">
               <div class="at-user__avatar">
-                <img src="" alt="Loading" />
+                <img src={utkarsh} alt="Loading" />
               </div>
               <div class="at-user__name">Utkarsh Pravind</div>
               <div class="at-user__title">Community Manager</div>
